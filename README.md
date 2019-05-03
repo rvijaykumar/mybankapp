@@ -1,5 +1,5 @@
 # mybankapp
-#  (pls download the zip file as I could not upload the project structure due to network issue)
+
 
 This project analyses the financial transactions of a given accounts based on the transactions defined in a CSV file.
 
